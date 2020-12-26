@@ -1,0 +1,14 @@
+Requerimientos
+R01: Debe analizar de manera correcta el numero a convertir.
+R02: Debe convertir cualquier numero decimal a numero binario.
+
+Criterios de Aceptacion
+C01: El numero debe ser un entero y no negativo.
+C02: No se acepta texto ni tampoco caracteres especicales.
+
+Escenarios de Prueba
+E01: "12" = "1100"
+E02: "84" = "1010100"
+E03: "123" = "1111011"
+E04: "8" = "1000"
+E05: "36" = "100100"
