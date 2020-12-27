@@ -1,0 +1,14 @@
+Requerimientos
+R01: Debe leer apropiadamente el numero a convertir.
+R02: Debe convertir el numero a numero binario.
+
+Criterios de Aceptacion
+C01: No se acepta texto ni caracteres especiales.
+C02: El numero debe ser un entero y no negativo.
+
+Escenarios de Prueba
+E01: "74" = "1001010"
+E02: "7" = "111"
+E03: "18" = "10010"
+E04: "173" = "10101101"
+E05: "204" = "11001100"
